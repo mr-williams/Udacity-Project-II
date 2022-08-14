@@ -10,12 +10,12 @@ Here are two of the projects:
 ## FordGo Bike Share
 
 ### Dataset
-The data consists of information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. The dataset can be found through this link provided: 
+> The data consists of information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. The dataset can be found through this link provided: 
 [here](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv)
 
 
 ### Summary of Findings
-The data provided required some cleaning as the dataset was dirty and there were missing values which could alter the outcome of the analysis. The main feautures of this analysis centered around the duration of each bike ride & the type of users(Customer & Subscriber). Other features included which stations were mostly used, which day of the week featured the most rides, which period of the day had the most ride count.
+> The data provided required some cleaning as the dataset was dirty and there were missing values which could alter the outcome of the analysis. The main feautures of this analysis centered around the duration of each bike ride & the type of users(Customer & Subscriber). Other features included which stations were mostly used, which day of the week featured the most rides, which period of the day had the most ride count.
 There were 16 columns, one of which was removed during the Data wrangling process to make way for a few more columns. The Start and End time column type had to be changed to calculate the days of the week and Period of day. This was also used to calculate the Age of the Bike riders.
 
 
