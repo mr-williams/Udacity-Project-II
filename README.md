@@ -4,3 +4,7 @@ Using Python through jupyter notebooks various analysis were peformed as project
 Here are two of the projects:
 - Twitter Dogs
 - FordGo Bike Share 
+
+## Twitter Dogs
+
+## FordGo Bike Share
