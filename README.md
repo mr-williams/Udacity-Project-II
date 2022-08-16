@@ -6,8 +6,10 @@ Here are two of the projects:
 - FordGo Bike Share 
 
 ## Twitter Dogs
+### Dataset
+### Summary of Findings
+### Key Insights for Presentation
 
-## FordGo Bike Share
 
 ### Dataset
 > The data consists of information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. The dataset can be found through this link provided: 
