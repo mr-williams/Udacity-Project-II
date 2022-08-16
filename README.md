@@ -11,8 +11,7 @@ Here are two of the projects:
 **The analysis was performed:** [here](https://github.com/mr-williams/Udacity-Projects/blob/main/twitter%20dogs/wrangle_act.ipynb)
 ### Key Insights for Presentation
 
-### Ford GoBike System Data Exploration
-
+## Ford GoBike System Data Exploration
 ### Dataset
 > The data consists of information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. The dataset can be found through this link provided: 
 [here](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv)
