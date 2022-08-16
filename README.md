@@ -7,9 +7,18 @@ Here are two of the projects:
 
 ## Twitter Dogs
 ### Dataset
+> For this case study, the data source comes off the back of Twitter specifically using an API to get raw data off of the (@WeRateDogs) twitter account which rates various breeds of dogs.
+
 ### Summary of Findings
+>Assesing the data, shown below are the various quality issues as well as the untidiness found across the 3 datasets. All three were merged to create a singular data set containing as much cleaned information as possible. This file is based off of a twitter archive of the (@WeRateDogs) profile and the tweets made by them within a specific time. Using the Tweepy Library to query the Twitter's API, This can be done by creating a twitter developer's account, set up some code to create an API object, Query various Tweet Id's and write its JSON data to a text file [tweet-json.txt]
 **The analysis was performed:** [here](https://github.com/mr-williams/Udacity-Projects/blob/main/twitter%20dogs/wrangle_act.ipynb)
+
 ### Key Insights for Presentation
+>-The average numerator rating is at 12.28
+-Dogs with no names contribute to over 27%
+-The top 3 dog types are the Golden retriever, Lambrador retriver and Pembroke
+
+The minimum amount of likes(favorite) is at 81 likes while the most liked is at over 132k likes
 
 ## Ford GoBike System Data Exploration
 ### Dataset
